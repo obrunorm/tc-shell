@@ -1,2 +1,2 @@
 #!/bin/bash
-cat iact
+perl -ne '3..3 and print' iacta
