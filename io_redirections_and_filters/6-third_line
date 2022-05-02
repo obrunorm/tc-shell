@@ -1,2 +1,2 @@
 #!/bin/bash
-cat teste| grep -n ^| grep ^3 
+head -3 tail -n +3
