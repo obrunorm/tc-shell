@@ -1,2 +1,2 @@
 #!/bin/bash
-head -3 iacta -n -2 iacta -n -1 iacta
+cat teste| grep -n ^| grep ^3 
