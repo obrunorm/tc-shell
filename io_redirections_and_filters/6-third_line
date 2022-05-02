@@ -1,2 +1,2 @@
 #!/bin/bash
-sed -n '3
+cat -n '3
